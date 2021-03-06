@@ -1,11 +1,5 @@
 {
-	"optionalfeature": {
-		"collection/Zordnael; Curse Of Strahd.json": "collection"
-	},
 	"feat": {
-		"collection/Zordnael; Curse Of Strahd.json": "collection"
-	},
-	"monster": {
 		"collection/Zordnael; Curse Of Strahd.json": "collection"
 	}
 }
