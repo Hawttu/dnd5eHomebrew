@@ -1,5 +1,5 @@
 {
-	"feat": {
-		"collection/Zordnael; Curse Of Strahd.json": "collection"
+	"action": {
+		"action/Kaskimaa; testAction.json": "action"
 	}
 }
