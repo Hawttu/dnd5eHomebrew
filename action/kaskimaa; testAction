@@ -1,0 +1,27 @@
+{ 
+	"_meta": {
+		"sources": [
+			{
+				"json": "kaskimaa",
+				"abbreviation": "KM",
+				"full": "testAction",
+				"authors": [
+ 					"Kaskimaa"
+				],
+				"version": "1.0.0",
+				"targetSchema": "1.1.0"
+			}
+		],
+		"dateAdded": 0,
+		"dateLastModified": 0
+	},
+	"action": [
+		{
+			"name": "testAction",
+			"entries": [
+				"description text"
+			],
+			"source": "kaskimaa"
+		}
+	]
+}
