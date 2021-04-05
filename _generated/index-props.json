@@ -2,4 +2,8 @@
 	"action": {
 		"action/kaskimaa; testAction.json": "action"
 	}
+	
+	"race": {
+		"races.json": "race"
+	}
 }
